@@ -8,7 +8,7 @@
 ```
 </div> 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Reincarnated+as+a+Developer;Backend+Engineer;Cloud+%26+Automation+Enthusiast;Building+Scalable+Systems;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=BF40BF&center=true&vCenter=true&width=900&lines=Reincarnated+as+a+Developer;Backend+Engineer;Cloud+%26+Automation+Enthusiast;Building+Scalable+Systems;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
 <br/>
     
