@@ -1,5 +1,5 @@
 # 💫 About Me:
-ReincarnatedDeveloper
+Reincarnated as Developer
 
 
 # 💻 Tech Stack:
